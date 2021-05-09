@@ -5,8 +5,9 @@ The language I've picked up to develop this algorithms has been Golang. I'm stil
 I'll be following TDD to solve them, so every problem will have its tests.
 
 ## Problems 
-- [x] Two Sum
-- [x] Add Two Numbers
-- [x] Longest Substring Without Repeating Characters
+- [x] 1. Two Sum
+- [x] 2. Add Two Numbers
+- [x] 3. Longest Substring Without Repeating Characters
+- [x] 4. Median of Two Sorted Arrays
 
 Wanna join me on the challenge? https://leetcode.com/problemset/all/
