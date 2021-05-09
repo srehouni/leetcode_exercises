@@ -7,5 +7,6 @@ I'll be following TDD to solve them, so every problem will have its tests.
 ## Problems 
 - [x] Two Sum
 - [x] Add Two Numbers
+- [x] Longest Substring Without Repeating Characters
 
 Wanna join me on the challenge? https://leetcode.com/problemset/all/
