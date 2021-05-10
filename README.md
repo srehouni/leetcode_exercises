@@ -9,5 +9,6 @@ I'll be following TDD to solve them, so every problem will have its tests.
 - [x] 2. Add Two Numbers
 - [x] 3. Longest Substring Without Repeating Characters
 - [x] 4. Median of Two Sorted Arrays
+- [x] 5. Longest Palindromic Substring
 
 Wanna join me on the challenge? https://leetcode.com/problemset/all/
